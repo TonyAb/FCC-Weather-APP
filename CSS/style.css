@@ -1,0 +1,145 @@
+@import url(https://fonts.googleapis.com/css?family=Alfa+Slab+One);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500);
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+	margin: 0;
+}
+
+h3#today {
+	margin: 0;
+	padding-top: 4px;
+}
+
+input {
+	display: inline;
+	height: 1.5em;
+	padding: 0 5px;
+}
+
+h1#temp {
+	margin: 0;
+	padding: 15px 0;
+	vertical-align: text-bottom;
+	letter-spacing: 1px;
+}
+
+#data {
+	display: none;
+}
+
+.data-field {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+.data-field h3 {
+	margin-top: 5px;
+}
+
+#compass {
+	border-radius: 50%;
+	border: 6px solid black;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari */
+    transform: rotate(0deg);
+}
+
+.inline {
+	display: inline-block;
+	margin: 0 5px;
+}
+
+#switch {
+	display: block;
+}
+.switch {
+  position: relative;
+  width: 32px;
+  height: 24px;
+  bottom: -6px;
+}
+
+.switch input {
+	display:none;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: -18px;
+  bottom: 0;
+  background-color: #a9a9a9;
+  -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,0.2);
+  -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,0.2);
+  box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,0.2);
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+input:checked + .slider {
+  background-color: #0eae21;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #0eae21;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	text-align: center;
+}
+
+header div, #temp {
+	font-family: 'Alfa Slab One', cursive;
+	text-align: center;
+	color: #A9A9A9;
+	margin-bottom: 45px;
+}
+h3 .inline {
+	font-size: 1.25em;
+}
+header h1 {
+	margin-bottom: 0;
+}
+
+#today {
+	font-family: 'Robot', sans-serif;
+	color: red;
+}

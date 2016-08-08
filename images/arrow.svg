@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="112"
+   height="112"
+   viewBox="0 0 112 112"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="arrow.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9074418"
+     inkscape:cx="19.385916"
+     inkscape:cy="33.453787"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1225"
+     inkscape:window-height="756"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.754929,-304.86353)">
+    <g
+       id="g4487"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,367.39443,85.381178)">
+      <g
+         style="fill:#000000"
+         transform="matrix(-0.3944595,-1.4721429,1.4721429,-0.3944595,87.761412,410.9634)"
+         id="g4343">
+        <polygon
+           style="fill:#000000"
+           points="23.001,27.245 0,23.39 49.636,0.61 25.636,49.026 "
+           id="polygon4305" />
+        <g
+           style="fill:#000000"
+           id="g4307" />
+        <g
+           style="fill:#000000"
+           id="g4309" />
+        <g
+           style="fill:#000000"
+           id="g4311" />
+        <g
+           style="fill:#000000"
+           id="g4313" />
+        <g
+           style="fill:#000000"
+           id="g4315" />
+        <g
+           style="fill:#000000"
+           id="g4317" />
+        <g
+           style="fill:#000000"
+           id="g4319" />
+        <g
+           style="fill:#000000"
+           id="g4321" />
+        <g
+           style="fill:#000000"
+           id="g4323" />
+        <g
+           style="fill:#000000"
+           id="g4325" />
+        <g
+           style="fill:#000000"
+           id="g4327" />
+        <g
+           style="fill:#000000"
+           id="g4329" />
+        <g
+           style="fill:#000000"
+           id="g4331" />
+        <g
+           style="fill:#000000"
+           id="g4333" />
+        <g
+           style="fill:#000000"
+           id="g4335" />
+      </g>
+      <circle
+         r="56"
+         cy="360.86349"
+         cx="109.75495"
+         id="path4371"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+    </g>
+  </g>
+</svg>
